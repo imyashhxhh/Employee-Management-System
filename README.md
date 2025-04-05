@@ -1,42 +1,47 @@
-# Employee Management System
+# 🧑‍💼 Employee Management System
 
-A simple web-based system to manage employee data — built using React Js, Tailwind CSS and Local Storage.
-
----
-
-## 🔗 Live Demo
-
-[Click here to view the live project 🚀](https://your-live-link.com)
+A simple and modern web application for managing employee tasks and tracking performance. Built with a focus on clean UI and smooth functionality.
 
 ---
 
-## 🖼️ Screenshots Of Project
+## 🚀 Live Demo
 
-### 🏠 Home Page
-![Home Page](images/home.png)
+👉 [Visit the Live Site](https://employeee-management.netlify-app)
 
-### 👥 Admin Dashboard
-![admin dashboad](images/employee-list.png)
+---
 
-### ➕ Employee Dashboard
-![employee tasks](images/add-employee.png)
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Login Page](./homepage.jpeg)
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](./admin.jpeg)
+
+### 👤 User Dashboard
+![User Dashboard](./user.jpeg)
+
+---
+
+## ⚙️ Features
+
+- Secure login system for admin and employees
+- Create, assign, and manage tasks
+- View task stats: new, active, completed, failed
+- Clean dark-themed UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- Tailwind CSS
-- React JS
-- Local Storage
+- HTML, CSS, JavaScript
+- React.js
+- Local Storage (for database)
+- Netlify (for live hosting)
 
 ---
 
-## 📂 Project Setup
+## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/imyashhxhh/Employee-Management-System.git
-cd Employee-Management-System
-npm install
-npm run dev
-
+git clone https
