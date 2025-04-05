@@ -13,13 +13,13 @@ A simple and modern web application for managing employee tasks and tracking per
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page](./homepage.jpeg)
+![Login Page](https://imgur.com/a/lrSj4cV)
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard](./admin.jpeg)
+![Admin Dashboard](https://imgur.com/a/bWJoc7r)
 
 ### 👤 User Dashboard
-![User Dashboard](./user.jpeg)
+![User Dashboard](https://imgur.com/a/8uWaPCi)
 
 ---
 
@@ -44,4 +44,7 @@ A simple and modern web application for managing employee tasks and tracking per
 ## 📂 How to Run Locally
 
 ```bash
-git clone https
+git clone https://github.com/imyashhxhh/Employee-Management-System.git
+cd Employee-Management-System
+npm install
+npm run dev
