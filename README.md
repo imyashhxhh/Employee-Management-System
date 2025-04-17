@@ -6,7 +6,7 @@ A simple and modern web application for managing employee tasks and tracking per
 
 ## 🚀 Live Demo
 
-👉 [Visit the Live Site](https://employeee-management.netlify-app)
+👉 [Visit the Live Site](https://https://employeee-manage.netlify.app/)
 
 ---
 
