@@ -32,8 +32,10 @@ A simple and modern web application for managing employee tasks and tracking per
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript
 - React.js
+- Express
+- Node.js
+- Tailwind CSS
 - Local Storage (for database)
 - Netlify (for live hosting)
 
