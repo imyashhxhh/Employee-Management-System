@@ -1,6 +1,7 @@
 # 🧑‍💼 Employee Management System
 
 A simple and modern web application for managing employee tasks and tracking performance. Built with a focus on clean UI and smooth functionality.
+![admin](https://github.com/user-attachments/assets/651ee5f2-cfa7-4b88-8743-b8974641b874)
 
 ---
 
